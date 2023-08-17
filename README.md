@@ -8,7 +8,7 @@ I thoroughly enjoy spending time with family and friends ❣️, as well as expl
 
 <h3>Find me 👇</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](HTTPS://www.linkedin.com/in/anavargaspiña-53a287280/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anavargaspiña-53a287280/)
 [![GitHub](https://img.shields.io/github/followers/AnaVargasP?label=follow&style=social)](https://github.com/AnaVargasP)
 
 <div style="display: flex; flex-direction: row;">
