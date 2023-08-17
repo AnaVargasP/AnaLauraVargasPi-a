@@ -47,6 +47,6 @@ I thoroughly enjoy spending time with my family and friends ❣️, as well as e
 </div>
 </div>
 
-<img src="https://media0.giphy.com/media/l4HogV6533Je2oG40/giphy.gif?cid=ecf05e477tpk3tipw3mm6uhhx5q93new8d7auix1lf7zvuo6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80"> <em>I love connecting with different people so if you want to say hi, <b> I'll be happy to meet you more🌈<br> Thank you for visiting my profile✨ </b> :)</em>
+<img src="https://media0.giphy.com/media/l4HogV6533Je2oG40/giphy.gif?cid=ecf05e477tpk3tipw3mm6uhhx5q93new8d7auix1lf7zvuo6&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80"> <em>I love connecting with different people so if you want to say hi, <b> I'll be happy to meet you🌈<br> Thank you for visiting my profile✨ </b> :)</em>
 
 ---
