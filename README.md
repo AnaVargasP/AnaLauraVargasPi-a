@@ -1,10 +1,10 @@
 ![portada](https://media.licdn.com/dms/image/D4E16AQFRYOrbjqEvpw/profile-displaybackgroundimage-shrink_350_1400/0/1689186532970?e=1697673600&v=beta&t=TQzBNhSsE9AaUGD4MDpa4Lp7V1g2LPgqSKCAG_cJKUY)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, Welcome to my Github!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, welcome to my Github!</h1>
 
  <h3>I'm Ana Vargas Piña👋</h3>
-👩‍💻 Currently  immersing myself into the exciting world of Frontend, always eager to learn, grow each day and contribute to projects that have a positive impact on people💪<br> With a background in design, I find joy in discovering creative ways to communicate messages and in crafting user-friendly interfaces that resonate with users. I'm excited about the idea of collaborating on projects that combine creativity, technology, and design.
+Currently immersing myself into the exciting world of Frontend👩🏽‍💻, always eager to learn, grow each day and contribute to projects that have a positive impact on people💪<br> With a background in design, I find joy in discovering creative ways to communicate messages and in crafting user-friendly interfaces that resonate with users👥. I'm excited about the idea of collaborating on projects that combine creativity, technology, and design.
 <h4>Fun facts🌟</h4> 
-I thoroughly enjoy spending time with my family and friends ❣️, as well as exploring my creativity through arts and crafts 🎨, avid reader 📚, dog lover 🐶. I love to travel and experience new cultures 🌎, the beach is my favorite place 🌊.
+I thoroughly enjoy spending time with family and friends ❣️, as well as exploring my creativity through arts and crafts 🎨, avid reader 📚, dog lover 🐶. I love to travel and experience new cultures 🌎, the beach is my favorite place 🌊.
 
 <h3>Find me 👇</h3>
 
