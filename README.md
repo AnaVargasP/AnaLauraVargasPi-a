@@ -1,4 +1,4 @@
-![portada](https://media.licdn.com/dms/image/D4E16AQFRYOrbjqEvpw/profile-displaybackgroundimage-shrink_350_1400/0/1689186532970?e=1697673600&v=beta&t=TQzBNhSsE9AaUGD4MDpa4Lp7V1g2LPgqSKCAG_cJKUY)
+![portada](https://media.licdn.com/dms/image/D4E16AQFRYOrbjqEvpw/profile-displaybackgroundimage-shrink_350_1400/0/1689186533259?e=1712188800&v=beta&t=ctH-85Gq_Yjz5RHi9QAm3SdkN4O689xOGrQcZCqZrbI)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, welcome to my Github!</h1>
 
  <h3>I'm Ana Vargas Piña👋</h3>
